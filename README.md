@@ -14,5 +14,8 @@
 ### 决赛
 * 题目：有向图，计算节点的中心性（betweenness centrality），输出中心性top100的点id及中心性值。
 * 方法：算法参考Brandes U. A faster algorithm for betweenness centrality[J]. Journal of mathematical sociology, 2001, 25(2): 163-177. 大家的算法应该都一样，考察的是代码实现~~以及对数据的过过过过过拟合~~。
+* 注意点：
+** 1
+** 2
 
 具体有空再补......
