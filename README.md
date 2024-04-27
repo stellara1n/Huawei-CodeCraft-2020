@@ -1,4 +1,4 @@
-# CodeCraft2020
+# Huawei CodeCraft 2020
 * 队名：杰尼龟
   
 ### 初赛
